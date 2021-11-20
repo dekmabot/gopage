@@ -13,7 +13,7 @@ func HandleRequest(ctx context.Context, e events.APIGatewayProxyRequest) (events
 		"<html lang=\"en\">\n" +
 		"<head>\n    " +
 		"<meta charset=\"UTF-8\">\n    " +
-		"<title>Domain is for sale</title>\n" +
+		"<title>Domain is for sale!</title>\n" +
 		"<style>html, body{height:100%; width:100%; background-color: #161b22; color: #ccc; font-size: 18px; padding: 0; margin: 0;} div.container {height: 100%; position: relative } div.container p {margin: 0; position: absolute; top: 50%; left: 50%; margin-right: -50%; transform: translate(-50%, -50%) }</style>\n" +
 		"</head>\n" +
 		"<body>\n" +
