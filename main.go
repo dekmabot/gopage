@@ -19,7 +19,7 @@ var (
 	}
 )
 
-func HandleRequest(ctx context.Context, e events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse, error) {
+func HandleRequest(context.Context, events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse, error) {
 
 	var err error
 	var body bytes.Buffer
