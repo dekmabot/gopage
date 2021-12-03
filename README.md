@@ -7,8 +7,7 @@ It can:
 
 1. Show simple page with .gohtml template.
 2. Show current time in cyrillic locale.
-3. Paint according to your browser light/dark theme.
-4. Can be deployed to AWS Lambda by one console command.
+3. Can be deployed to AWS Lambda by one console command.
 
 Supports commands:
 ```bash
