@@ -1,5 +1,5 @@
 
-# A simple golang app example, deploying to AWS Lambda
+# A simple golang app example for AWS Lambda
 
 Demo is here: https://r7z8q1ohb0.execute-api.eu-west-1.amazonaws.com/default/myFunc
 
